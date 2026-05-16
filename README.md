@@ -10,12 +10,10 @@ L'utilizzo della struttura basata su repository Git consente una gestione dirett
 
 ### 2.1 Clonazione della Repository
 
-Eseguire il download del progetto nella cartella di destinazione desiderata:
+Eseguire il download del progetto nella cartella di destinazione desiderata quindi nel proprio spazio di lavoro `Spazio_Lavoro`:
 
 ```bash
 git clone https://github.com/Comfy-Org/ComfyUI
-cd ComfyUI
-
 ```
 # 3. Configurazione del Virtual Environment (`venv`)
 ### 3.1 Creazione dell'Ambiente Virtuale (`venv`)
