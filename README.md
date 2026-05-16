@@ -80,18 +80,7 @@ wheel 0.47.0
 Package Version
 ----------------- --------
 filelock 3.29.0
-fsspec 2026.4.0
-Jinja2 3.1.6
-MarkupSafe 3.0.3
-mpmath 1.3.0
-networkx 3.6.1
-numpy 2.4.5
-pillow 12.2.0
-pip 26.1.1
-setuptools 81.0.0
-sympy 1.14.0
-torch 2.12.0
-torchaudio 2.11.0
+...
 torchvision 0.27.0
 typing_extensions 4.15.0
 ```
@@ -130,6 +119,7 @@ ComfyUI-Manager centralizza l'installazione e l'aggiornamento dei nodi personali
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/Comfy-Org/ComfyUI-Manager
+cd ../..
 ```
 
 ### 5.2 Download e Posizionamento del Modello SVD
