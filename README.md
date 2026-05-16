@@ -130,8 +130,6 @@ ComfyUI-Manager centralizza l'installazione e l'aggiornamento dei nodi personali
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/Comfy-Org/ComfyUI-Manager
-cd ..
-
 ```
 
 ### 5.2 Download e Posizionamento del Modello SVD
